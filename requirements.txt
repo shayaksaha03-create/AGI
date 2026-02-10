@@ -1,0 +1,72 @@
+# LLM
+ollama>=0.1.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+
+# UI
+customtkinter>=5.2.0
+tkinter-tooltip>=2.1.0
+Pillow>=10.0.0
+matplotlib>=3.8.0
+plotly>=5.18.0
+
+# System Control
+psutil>=5.9.0
+pyautogui>=0.9.54
+pygetwindow>=0.0.9
+keyboard>=0.13.5
+mouse>=0.7.1
+pynput>=1.7.6
+pywin32>=306
+wmi>=1.5.1
+screeninfo>=0.8.1
+
+# Web/Internet
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.15.0
+aiohttp>=3.9.0
+feedparser>=6.0.10
+duckduckgo-search>=4.1.0
+
+# NLP & Analysis
+nltk>=3.8.1
+textblob>=0.17.1
+spacy>=3.7.0
+
+# Database & Storage
+sqlite3
+chromadb>=0.4.0
+pickle5>=0.0.11
+
+# Audio
+pyttsx3>=2.90
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13
+
+# Async & Threading
+asyncio
+aiofiles>=23.2.0
+schedule>=1.2.0
+
+# Code Analysis
+ast
+autopep8>=2.0.4
+black>=23.12.0
+pylint>=3.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+cryptography>=41.0.0
+watchdog>=3.0.0
+GitPython>=3.1.40
+colorama>=0.4.6
+rich>=13.7.0
+numpy>=1.26.0
+pandas>=2.1.0
+
+# ── Phase 9: Internet Learning ──
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+PySide6==6.7.2
